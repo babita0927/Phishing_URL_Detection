@@ -1,0 +1,8 @@
+Flask==2.2.2
+googlesearch_python==1.1.0
+numpy==1.23.5
+scikit_learn==1.2.2
+streamlit==1.20.0
+tld==0.13
+validators==0.18.2
+xgboost==1.7.4
